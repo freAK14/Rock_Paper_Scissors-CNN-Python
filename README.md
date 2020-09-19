@@ -24,7 +24,7 @@ python gather_images.py scissors 200
 ```
 python train.py
 ```
-5. Test teh model with any image. For e.g.-
+5. Test the model with any image. For e.g.-
 ```
 python test.py 5.jpg
 ```
